@@ -7,4 +7,8 @@ URL2PDF converts a list of urls containing images into a pdf. It is useful to do
 
 For this purpose, it is recommended that those interested make their own excel template to generate the urls, as each repository will use different urls and will require some degrees of fine tuning. 
 
+This updated version implements two new features:
+  1. it provides a visual representation of the progress and an estimatation of the time left
+  2. once 250mb are reached, it saves the outcome and it starts a new pdf. These pdfs are labeled in sequence, allowing an easy navigation between them. This avoids 3 gb pdfs.
+
 Happy to provide assistance with this (for educational purposes) for the repositories of the Bib.Vatic., El Escorial, and Bologna's Colegio de España.
