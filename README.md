@@ -10,6 +10,6 @@ For this purpose, it is recommended that those interested make their own excel t
 This updated version implements two new features:
   1. it provides a visual representation of the progress and an estimatation of the time left
   2. the code is optimized to use a more efficient way to add images to the PDF
-  3. once 250mb are reached, it saves the outcome and it starts a new pdf. These pdfs are labeled in sequence, allowing an easy navigation between them. This avoids 3 gb pdfs.
+  3. once 50 pages are reached, it saves the outcome and it starts a new pdf. These pdfs are labeled in sequence, allowing an easy navigation between them. This avoids heavy, unusable pdfs in case of archiving-quality sources.
 
 Happy to provide assistance with this (for educational purposes) for the repositories of the Bib.Vatic., El Escorial, and Bologna's Colegio de España.
