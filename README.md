@@ -12,4 +12,4 @@ This updated version implements two new features:
   2. the code is optimized to use a more efficient way to add images to the PDF
   3. once 50 pages are reached, it saves the outcome and it starts a new pdf. These pdfs are labeled in sequence, allowing an easy navigation between them. This avoids heavy, unusable pdfs in case of archiving-quality sources.
 
-Happy to provide assistance with this (for educational purposes) for the repositories of the Bib.Vatic., El Escorial, and Bologna's Colegio de España.
+Happy to provide assistance with this (for educational purposes) for the repositories of the Bib.Vatic., El Escorial, and Bologna's Spanish Collegio.
