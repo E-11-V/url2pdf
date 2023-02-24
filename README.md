@@ -13,4 +13,4 @@ This updated version implements some new features:
   3. once 50 pages are reached, it saves the outcome and it starts a new pdf. These pdfs are labeled in sequence, allowing an easy navigation between them. This avoids heavy, unusable pdfs in case of archiving-quality sources.
   4. It fixes an issue with the ratio of images.
 
-Happy to provide assistance with this (for educational purposes) for the repositories of the Bib.Vatic., El Escorial, and Bologna's Spanish Collegio.
+
